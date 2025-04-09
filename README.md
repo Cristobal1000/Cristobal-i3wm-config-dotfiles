@@ -11,5 +11,5 @@
 ## Images
 ![Project Screenshot](2025-04-08_10-05.png?raw=true)
 ![Project Screenshot](2025-04-08_10-01.png?raw=true)
-![Project Screenshot](2025-04-08_09-59.png.png?raw=true)
+![Project Screenshot](2025-04-08_09-59.png?raw=true)
 ![Project Screenshot](drun.png)
